@@ -1,0 +1,1 @@
+function dynamicWW(){return jQuery(window).width()};
