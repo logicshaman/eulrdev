@@ -1,2 +1,2 @@
 # eulrdev
-My Website: https://logicshaman.github.io/eulrdev
+My Website: eulr.dev or logicshaman.github.io/eulrdev
